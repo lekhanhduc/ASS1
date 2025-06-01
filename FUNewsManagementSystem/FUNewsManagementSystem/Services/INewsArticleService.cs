@@ -10,5 +10,7 @@ namespace FUNewsManagementSystem.Services
         Task<PageResponse<NewsArticleDetailResponse>> GetNewsArticlesByUserLogin(int page, int size);
         Task<NewsArticleDetailResponse?> GetNewsArticleByIdAsync(int id);
         Task DeleteNewsArticleAsync(int id);
+
+        Task<NewsArticleUpdateResponse> UpdateNewsArticleAsync(NewsArticleUpdateRequest request);
     }
 }

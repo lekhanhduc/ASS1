@@ -73,7 +73,7 @@ namespace FUNewsManagementSystem.Controllers
         }
 
         [HttpDelete("{id}")]
-        [Authorize(Roles = "STAFF")]
+        [Authorize(Roles = "STAFF, ADMIN")]
         public async Task<ApiResponse<string>> DeleteNewsArticleAsync(int id)
         {
             await newsArticleService.DeleteNewsArticleAsync(id);

@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\services\\impl\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\services\\impl\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\middlewares\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\middlewares\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\services\\impl\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\services\\impl\\newsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\services\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\services\\inewsarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\controllers\\articleodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\articleodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|d:\\prn232-lab-asm\\funewsmanagementsystem\\funewsmanagementsystem\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75338EDB-DB61-4E46-B6A0-B77B472CFFF8}|FUNewsManagementSystem\\FUNewsManagementSystem.csproj|solutionrelative:funewsmanagementsystem\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ErrorCode.cs",
-              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Middlewares\\ErrorCode.cs",
-              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Middlewares\\ErrorCode.cs",
-              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Middlewares\\ErrorCode.cs",
-              "RelativeToolTip": "FUNewsManagementSystem\\Middlewares\\ErrorCode.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBsAAACFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:40:51.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\UserController.cs",
-              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\UserController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:36:49.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\Impl\\UserService.cs",
-              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Services\\Impl\\UserService.cs",
-              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\Impl\\UserService.cs",
-              "RelativeToolTip": "FUNewsManagementSystem\\Services\\Impl\\UserService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:35:47.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Services\\IUserService.cs",
-              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\IUserService.cs",
-              "RelativeToolTip": "FUNewsManagementSystem\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:35:28.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NewsArticleService.cs",
-              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
-              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
-              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
-              "RelativeToolTip": "FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAQwIEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:26:29.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "NewsArticleController.cs",
               "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\NewsArticleController.cs",
               "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\NewsArticleController.cs",
               "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\NewsArticleController.cs",
               "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\NewsArticleController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T06:24:27.108Z",
+              "WhenOpened": "2025-06-01T09:00:53.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Services\\CloudinaryService.cs",
+              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\CloudinaryService.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Services\\CloudinaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T05:51:03.294Z",
+              "WhenOpened": "2025-06-01T08:52:24.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\FileController.cs",
+              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\FileController.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:52:01.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleOdataController.cs",
+              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\ArticleOdataController.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Controllers\\ArticleOdataController.cs",
+              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Controllers\\ArticleOdataController.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Controllers\\ArticleOdataController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:38:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsArticleService.cs",
+              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
+              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Services\\Impl\\NewsArticleService.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAwJEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:33:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INewsArticleService.cs",
+              "DocumentMoniker": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\INewsArticleService.cs",
+              "RelativeDocumentMoniker": "FUNewsManagementSystem\\Services\\INewsArticleService.cs",
+              "ToolTip": "D:\\PRN232-LAB-ASM\\FUNewsManagementSystem\\FUNewsManagementSystem\\Services\\INewsArticleService.cs",
+              "RelativeToolTip": "FUNewsManagementSystem\\Services\\INewsArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T08:32:55.054Z",
               "EditorCaption": ""
             }
           ]

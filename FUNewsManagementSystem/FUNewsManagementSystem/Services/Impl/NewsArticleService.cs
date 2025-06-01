@@ -228,5 +228,10 @@ namespace FUNewsManagementSystem.Services.Impl
             return articles;
         }
 
+        public Task<NewsArticleUpdateResponse> UpdateNewsArticleAsync(NewsArticleUpdateRequest request)
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }
